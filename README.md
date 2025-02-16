@@ -6,7 +6,7 @@
 
 
 
-### A-LOAM, LiDAR-카메라 융합, KNN을 이용한 객체 분류 (Ubuntu 20.04, ROS Noetic)
+### 시뮬레이션(Gazebo)에서 A-LOAM과 Lego-LOAM 작동
 
 #### 문의 사항: peicai69@naver.com
 
